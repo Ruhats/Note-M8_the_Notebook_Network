@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notem8</string>
+    <string name="logo_of_note_m8">Logo of Note M8</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_with_google">Sign up with google</string>
+    <string name="sign_up_with_facebook">Sign up with facebook</string>
+    <string name="username_or_e_mail">Username or E-mail</string>
+    <string name="password">Password</string>
+    <string name="settings">Settings</string>
+    <string name="friends">Friends</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="settings1">Settings1</string>
+    <string name="settings3">Settings3</string>
+    <string name="settings2">Settings2</string>
+    <string name="my_notes">My Notes</string>
+    <string name="friends">Friends</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="pop_up_settings_for_notes">pop-up settings for notes</string>
+</resources>
